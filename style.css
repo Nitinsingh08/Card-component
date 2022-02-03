@@ -1,0 +1,38 @@
+* {
+    background-color: rgb(182, 204, 230) !important;
+    font-family: "Outfit", sans-serif;
+}
+
+.card {
+    width: 18rem;
+    border-radius: 20px;
+}
+
+.card,
+.card p,
+.card h5 {
+    background-color: white !important;
+}
+
+.card-img {
+    border-radius: 10px;
+}
+
+h5 {
+    font-weight: 600;
+    color: #1f3251;
+}
+
+p {
+    font-weight: 400;
+    color: #7b879d;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
